@@ -142,3 +142,15 @@ h1 {
 .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
 }
+
+.white {
+    padding: 500px;
+}
+.hellHeader {
+  background: linear-gradient(60deg, rgb(197, 116, 84) 0%, rgb(193, 55, 0) 100%);
+}
+
+.passionHeader {
+    background: linear-gradient(60deg, rgb(171, 84, 197) 0%, rgb(58, 0, 193) 100%);
+    color: white;
+}
