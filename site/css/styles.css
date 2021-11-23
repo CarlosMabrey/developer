@@ -214,6 +214,30 @@ h1 {
     color: white;  
 }
 
+.knowledgeHeader {
+  background: linear-gradient(60deg, #093f38 0%, #53957c 100%);
+  color: white;
+}
+
+.knowledgeCallout {
+  text-align: center;
+  border-radius: 25px;
+  background: linear-gradient(60deg, #093f38 0%, #53957c 100%);
+  color: white; 
+}
+
+.truthHeader {
+  background: linear-gradient(60deg, #3f3a09 0%, #919553 100%);
+  color: white;
+}
+
+.truthCallout {
+  text-align: center;
+  border-radius: 25px;
+  background: linear-gradient(60deg, #3f3a09 0%, #919553 100%);
+  color: white; 
+}
+
 /* STYLING */
 .center {
     text-align: center;
